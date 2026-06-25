@@ -1,3 +1,16 @@
 body {
-  background-color: red;
+  background-color: rgb(238, 205, 161);
+}
+
+.container {
+  text-align: center;
+}
+.photo {
+  width: 450px;
+  border-radius: 16px;
+}
+
+.info a {
+  padding: 10px;
+  color: rgb(68, 110, 5);
 }
